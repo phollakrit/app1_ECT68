@@ -1,9 +1,10 @@
 import React from "react";
-import { EventData2 } from "./event-data";
+
+import Calendar from "./class-components";
 
 
 function App() {
-  return <EventData2/>
+  return <Calendar/>
 }
 
 export default App;
