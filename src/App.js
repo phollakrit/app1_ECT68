@@ -1,10 +1,11 @@
 import React from "react";
 
-import Calendar from "./class-components";
+
+import RefsArray from "./refs-array";
 
 
 function App() {
-  return <Calendar/>
+  return <RefsArray/>
 }
 
 export default App;
