@@ -1,7 +1,8 @@
-import FormText from "./form-text";
+import FormSelectFile from "./form-select-file";
+
 
 function App() {
-  return <FormText/>
+  return <FormSelectFile/>
 }
 
 export default App;
